@@ -1,1 +1,1 @@
-# Boilerplate React App
+# A React front end for Django cricinfo rest api 
